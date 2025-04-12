@@ -37,11 +37,9 @@ Handles vertex-level transformations:
 
 ## 🖼️ Screenshots
 
-| Toon + Pasteurized | Edge Outlining |
-|--------------------|----------------|
-| ![Toon](images/toon_shading.png) | ![Outline](images/outline_effect.png) |
 
-_Add more screenshots as needed and store them in a local `images/` directory._
+| ![Toon](images/exampleimage.png) | 
+
 
 ## 🔧 Requirements
 
