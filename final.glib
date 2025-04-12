@@ -1,0 +1,12 @@
+##OpenGL GLIB
+Perspective 70.
+LookAt 0 0 3  0 0 0  0 1 0
+
+Vertex		final.vert
+Fragment	final.frag
+Program Final					\
+		uColor {1. 0.5 0.0 1.}			\
+		uOutlineThickness <0.25 1.2 10.0> \
+		uPixelSize	<0. .05 .2>
+
+Obj catH.obj
